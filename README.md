@@ -1,6 +1,6 @@
 # This task is a test task.
 
-this assignment was taken by hh - https://vyksa.hh.ru/vacancy/118626902 ?query=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82+golang&hhtmFrom=vacancy_search_list
+this assignment was taken by hh - https://vyksa.hh.ru/vacancy/118626902
 
 to verify that the api program is working correctly, code was written to verify the project and the result is presented below/
 
